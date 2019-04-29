@@ -1,4 +1,4 @@
-# data-table
+# Magicable
 
 ## Project setup
 ```
